@@ -1,2 +1,3 @@
 # library
-my library for competitive programming
+my C++ library for competitive programming
+written by ymm, no copyright
