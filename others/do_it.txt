@@ -1,0 +1,76 @@
+== JUST DO IT ! ==
+
+* https://atcoder.jp/contests/dp/tasks/dp_n
+- dp ; ?
+
+* https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_c
+- binary ; ?
+
+* https://www.spoj.com/problems/AGGRCOW/
+- binary ; ?
+
+* https://atcoder.jp/contests/arc037/tasks/arc037_c
+- binary ; blue
+
+* https://atcoder.jp/contests/abc026/tasks/abc026_d
+- binary ; cyan
+
+* https://atcoder.jp/contests/abc107/tasks/arc101_b
+- binary ; yellow
+
+* https://atcoder.jp/contests/arc092/tasks/arc092_a
+- greedy ; cyan
+
+* https://atcoder.jp/contests/abc049/tasks/arc065_b
+- Union-Find ; blue
+
+* https://atcoder.jp/contests/arc116/tasks/arc116_d
+- Union-Find ; blue
+
+* https://atcoder.jp/contests/tenka1-2017/tasks/tenka1_2017_f
+- Sort ; silver
+
+* https://atcoder.jp/contests/tdpc/tasks/tdpc_lexicographical
+- dijkstra ; ?
+
+* https://atcoder.jp/contests/abc061/tasks/abc061_d
+- dijkstra ; blue
+
+* https://atcoder.jp/contests/abc132/tasks/abc132_e
+- dijkstra ; blue
+
+* https://atcoder.jp/contests/arc005/tasks/arc005_3
+- dijkstra ; cyan
+
+* https://atcoder.jp/contests/arc084/tasks/arc084_b
+- dijkstra ; orange
+
+* https://atcoder.jp/contests/jag2012autumn/tasks/icpc2012autumn_c
+- kruscal ; ?
+
+* https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1350
+- kruscal ; ?
+
+* https://atcoder.jp/contests/abc010/tasks/abc010_4
+- flow ; blue
+
+* https://onlinejudge.u-aizu.ac.jp/beta/room.html#RitsCamp18Day3/problems/F
+- flow ; ?
+
+* https://atcoder.jp/contests/jag2014autumn/tasks/icpc2014autumn_f
+- flow ; ?
+
+* https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1163&lang=jp
+- flow ; ?
+
+* https://atcoder.jp/contests/soundhound2018/tasks/soundhound2018_c
+- flow ; ?
+
+* https://atcoder.jp/contests/arc085/tasks/arc085_c
+- flow ; orange
+
+* https://onlinejudge.u-aizu.ac.jp/services/room.html#ACPC2018Day1/problems/H
+- flow ; ?
+
+* https://atcoder.jp/contests/dp/tasks/dp_p
+- dp ; ?
